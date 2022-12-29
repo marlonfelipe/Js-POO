@@ -1,0 +1,21 @@
+{
+  "name": "cuentasbancopopular",
+  "version": "1.0.0",
+  "description": "Gestión de Cuentas Corrientes del Banco Popular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marlonfelipe/Js-POO.git"
+  },
+  "author": "Marlon Felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marlonfelipe/Js-POO/issues"
+    
+  },
+  "homepage": "https://github.com/marlonfelipe/Js-POO#readme",
+  "type":"module"
+}
